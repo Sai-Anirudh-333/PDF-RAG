@@ -1,0 +1,13 @@
+python-dotenv
+ipykernel
+langchain
+langchain-community
+langchain-groq
+transformers
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+bs4
+streamlit
+PyPDF
+faiss-cpu
